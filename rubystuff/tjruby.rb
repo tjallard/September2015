@@ -5,3 +5,5 @@ name = gets
 
 # print output from user terminal
 puts "Hello " + name + "How are you?"
+
+puts "hi"
